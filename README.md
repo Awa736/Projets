@@ -1,4 +1,4 @@
-Ce répertoire contient les liens des applications que j'ai créées avec les outils ESRI : 
+Ci-dessous les liens des applications que j'ai créées avec les outils ESRI : 
 
 https://experience.arcgis.com/experience/dd55324c29df4ef8ba4ea19b5b6b3188
 
